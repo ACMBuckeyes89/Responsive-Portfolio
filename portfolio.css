@@ -1,0 +1,203 @@
+#home {
+	background-image: url("http://images.vinylpulse.com/vp_pics/from_windows_live_writer/TristanEatonxNychosforVitalityandVerveat_AF35/tristan_nychos1.jpg");
+	height: 590px;
+	width: 1300px;
+	position: static;
+	background-repeat: no-repeat;
+}
+
+.nav-link {
+	color: black;
+	font-family: 'Sarpanch', sans-serif;
+
+}
+
+#intro {
+	position: relative;
+	top: 250px;
+	left: 400px;
+} 
+
+#tag {
+	position: relative;
+	top: 270px;
+	left: 450px;
+} 
+
+@keyframes wave {
+	0% {color: #00134d;}
+	20% {color: #400080;}
+	40% {color: #006622;}
+	60% {color: #e6e600;}
+	80% {color: #990000;}
+	100% {color: #cc2900;}
+}
+
+#nameOf {
+	font-family: 'Michroma', sans-serif;
+	font-weight: bold;
+	color: #000000;
+	font-size: 50px;
+	animation-name: wave;
+	animation-duration: 5s;
+	animation-iteration-count: 2;
+	animation-direction: alternate-reverse;
+}
+
+#description {
+	font-family: 'Orbitron', sans-serif;
+	font-weight: bold;
+	color: #000000;
+	font-size: 30px;
+	animation-name: wave;
+	animation-duration: 5s;
+	animation-iteration-count: 2;
+	animation-direction: alternate-reverse;
+}
+
+.apps {
+	background-color: rgb(5, 71, 91);
+}
+
+#miniApps {
+	color: #FAF9F9;
+}
+
+.icons {
+	position: relative;
+	left: 460px;
+	top: 190px;
+	color: #FAF9F9;
+}
+
+#email {
+	position: relative;
+	left: 10px;
+	top: -10px;
+	font-family: 'Sarpanch', sans-serif;
+}
+
+#phone {
+	position: absolute;
+	left: 70px;
+	top: 130px;
+	font-family: 'Sarpanch', sans-serif;
+}
+
+.fa-linkedin-square {
+	position: relative;
+	left: 115px;
+	bottom: -35px;
+	color: #FAF9F9;
+}
+
+.fa-github-square {
+	position: relative;
+	left: 145px;
+	bottom: -35px;
+	color: #FAF9F9;
+}
+
+.inquiry {
+	position: relative;
+	left: 115px; 
+	top: -10px; 
+	font-family: 'Orbitron', sans-serif;
+}
+
+.social {
+	position: relative;
+	bottom: -30px;
+	left: 100px;
+	font-family: 'Orbitron', sans-serif;
+}
+
+#contact {
+	background-image: url(http://www.isupportstreetart.com/wp-content/uploads/2015/03/dourone2-9.jpg);
+	position: static;
+	height: 590px;
+}
+
+.display-6 {
+	position: relative;
+	left: -35px;
+	font-family: 'Michroma', sans-serif;
+}
+.heading {
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+	color: #FAF9F9;
+}
+
+.stuff {
+	font-family: 'Sarpanch', sans-serif;
+	color: #FAF9F9;
+}
+
+#miniApps {
+	text-align: center;
+	font-family: 'Orbitron', sans-serif;
+}
+
+.aboutMe {
+	background-color: rgb(3, 0, 45);
+}
+
+.education {
+	background-color: rgb(45, 0, 0);
+}
+
+.experience {
+	background-color: rgb(0, 45, 11);
+} 
+
+.skills {
+	background-color: rgb(41, 45, 0);
+}
+
+.fa-5x {
+	color: #FAF9F9;
+}
+
+.fa-html5 {
+	position: relative;
+	left: 250px;
+}
+
+.fa-css3 {
+	position: relative;
+	left: 520px;
+}
+
+.fa-code {
+	position: relative;
+	left: 750px;
+}
+
+#html {
+	position: relative;
+	left: 260px;
+}
+
+#css {
+	position: relative;
+	left: 605px;
+	top: -38px;
+}
+
+#javascript {
+	position: relative;
+	left: 905px;
+	top: -82px;
+}
+
+
+
+
+
+
+
+
+
+
+
